@@ -1,58 +1,45 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Friday Threads
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Our Services
+subheading: Custom Apparel in Mason, OH
 mainpitch:
-  title: Why Kaldi
+  title: Why Friday Threads
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    With our local team and in-house production, we can make the perfect apparel
+    for your business, school,  team or event.
+description: Established in 2012, we pride ourselves in top quality production,
+  on-time delivery and customer service. We also have technology to host your
+  group's online store--from a sports team of a dozen players to businesses with
+  thousands of employees.
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Screen Printing is still a great way to get the right look, especially
+        when you have a large run or want flexibility in your art and design. We
+        also have digital printing and cut-vinyl for smaller runs and special
+        art.
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Embroidery gives you a timeless look. It works especially well on polo
+        shirts and to personalize items with names or monograms
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Laser etching into drinkware and gifts creates a sharp and durable
+        design that will last for years. 
     - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
+      text: "Use your logo and art on any of thousands of items, from plaques and pens
+        to Bluetooth speakers. "
+  heading: Out Servicesxxx
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: Friday Threads
   description: >
     We hold our coffee to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the coffee’s
